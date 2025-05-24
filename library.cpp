@@ -4,7 +4,7 @@ using namespace std;
 
 // 2D array to store library data
 const int MAX_BOOKS = 20;
-const int MAX_TITLE_LENGTH = 50;
+const int MAX_TITLE_LENGTH = 50;B
 string books[MAX_BOOKS][MAX_TITLE_LENGTH];
 
 // Function to clear the input buffer
@@ -156,5 +156,3 @@ int main() {
     
     return 0;
 }
-
-

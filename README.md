@@ -1,4 +1,4 @@
-<h1 align="center">Library Management System</h1>
+<h1 align="center">Simple Libary Cli</h1>
 
 ![Simple-Libary-Cli](https://socialify.git.ci/MostafaSensei106/Simple-Libary-Cli/image?language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138288138%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&theme=Light)
 
@@ -18,7 +18,7 @@
 
 ## About
 
-The Library Management System is a CLI application written in C++ to manage a collection of books. It allows users to add, display, search, check out, and return books.
+Simple Library Management System is a CLI application written in C++ to manage a collection of books. It allows users to add, display, search, check out, and return books.
 
 ## Features
 
@@ -30,7 +30,7 @@ The Library Management System is a CLI application written in C++ to manage a co
 
 ## Installation
 
-To compile and run the Library Management System, you need a C++ compiler. Follow these steps:
+To compile and run the Library System, you need a C++ compiler. Follow these steps:
 
 1. Clone the repository:
 

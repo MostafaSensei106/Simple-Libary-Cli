@@ -1,6 +1,6 @@
 <h1 align="center">Simple Libary Cli</h1>
 
-![Simple-Libary-Cli](https://socialify.git.ci/MostafaSensei106/Simple-Libary-Cli/image?language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138288138%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&theme=Light)
+![Simple-Libary-Cli](https://socialify.git.ci/MostafaSensei106/Simple-Libary-Cli/image?font=KoHo&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138288138%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&theme=Light)
 
 <p align="center">
     A simple CLI application to manage a library's book inventory.
